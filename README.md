@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <p align="center">
   <!-- Temel bilgiler: commit sayısı, repo sayısı, en çok kullanılan diller -->
