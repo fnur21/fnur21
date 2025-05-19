@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 3rd Year Computer Engineering Student at Niğde Ömer Halisdemir University<br/>
-  💻 Passionate about Frontend Development & Design<br/>
+  💻 Passionate about Frontend Development <br/>
   🌱 Currently learning React, Machine Learning & Artificial Intelligence
 </p>
 
