@@ -30,12 +30,18 @@
 
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnur21&theme=tokyonight" />
+  <!-- Temel bilgiler: commit sayısı, repo sayısı, en çok kullanılan diller -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=calm&hide=contribs,issues&count_private=true" />
+</p>
+
+<p align="center">
+  <!-- En çok kullandığın diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnur21&layout=compact&theme=calm" />
 </p>
 
 
