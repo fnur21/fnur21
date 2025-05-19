@@ -38,14 +38,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnur21&theme=tokyonight" />
 </p>
 
----
 
-## 🌐 Socials
-
-<!-- Buraya sosyal medya linklerini eklersen aktif hale getirebiliriz -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-
----
-
-> *“Learning never exhausts the mind.”* – Leonardo da Vinci
