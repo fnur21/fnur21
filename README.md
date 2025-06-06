@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Fatma Nur Pekmez</h1>
+<h1 align="center">Hi there 👋 I'm Fatma Nur </h1>
 
 <p align="center">
   🎓 3rd Year Computer Engineering Student at Niğde Ömer Halisdemir University<br/>
