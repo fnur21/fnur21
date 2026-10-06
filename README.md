@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- ==================== DİNAMİK BAŞLIK BANNERI ==================== -->
+  <!-- ==================== ÜST DALGALI BANNER ==================== -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=220&section=header&text=Fatma%20Nur&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Graduate%20%7C%20Full-Stack%20%26%20AI%20Systems%20Architect&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <br/>
 
-  <!-- HAREKETLİ DAKTİLO EFEKTİ (DİNAMİK TYPING) -->
+  <!-- HAREKETLİ YAZI EFEKTİ (DİNAMİK TYPING) -->
   <a href="https://github.com/fnur21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=720&lines=Full-Stack+%26+Cross-Platform+Desktop+Architect;Real-Time+Computer+Vision+%26+Deep+Learning;T%C3%9CB%C4%B0TAK+2209-A+Optimization+Researcher;Offline-First+Systems+%26+Resilient+Databases" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Full-Stack+%26+Desktop+Architectures;Engineering+Real-Time+Computer+Vision+Models;T%C3%9CB%C4%B0TAK+2209-A+Optimization+Researcher;Offline-First+Systems+%26+High-Performance+SQLite" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- STATÜ VE İLETİŞİM ROZETLERİ -->
+  <!-- BAĞLANTI & DURUM ROZETLERİ -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,90 +31,46 @@
 
 ---
 
-# 🇹🇷 HAKKIMDA & MÜHENDİSLİK VİZYONUM
-
-Ben, yalnızca kod yazan değil; uçtan uca mimari kurgulayan, pazara hazır çapraz platform masaüstü ürünler çıkaran ve yapay zeka/bilgisayarlı görü (Computer Vision) ile modern çözümler üreten bir **Bilgisayar Mühendisliği mezunuyum**.
-
-Yazılım geliştirme sürecine salt ekran tasarımı olarak değil; **veri güvenliği**, **kesintisiz çalışma (offline-first)** ve **milisaniyelik sorgu performansı** sunan bütüncül bir mühendislik disiplini olarak yaklaşıyorum.
-
-### 🎯 Temel Yetkinliklerim & Yaklaşımım:
-* 🏛️ **Uçtan Uca Mimari & Çevrimdışı Sistemler:** İnternet kesintilerinden etkilenmeyen, yerel SQLite (WAL modu) motoruyla çalışan, yüksek işlem hacimli ve ACID uyumlu offline-first masaüstü mimarileri kuruyorum.
-* 🧠 **Bilgisayarlı Görü & Yapay Zeka:** Klasik tespitlerin ötesine geçerek; perspektif dönüşüm matematiğiyle araç hız tespiti yapan, sürüş güvenliğini artıran ve gerçek zamanlı video telemetrisi üreten derin öğrenme modelleri geliştiriyorum.
-* 🔬 **Akademik Ar-Ge & Optimizasyon:** **TÜBİTAK 2209-A** kapsamında Akıllı Acil Durum Yönetim Sistemleri üzerine yürüttüğüm araştırmalarda sezgisel optimizasyon algoritmalarını (*Genetik Algoritma, PSO ve Yapay Arı Kolonisi - ABC*) rota ve kaynak dağıtımı problemlerine uyguladım.
-* ✨ **Temiz Tasarım & UI/UX Felsefesi:** Modern karanlık tema, akıcı cam efekti (glassmorphism), deterministik durum yönetimi ve hatasız kullanıcı deneyimini standart olarak benimsiyorum.
-
----
-
-### 🚀 ÖNE ÇIKAN PROJELERİM
+### 🌐 Mühendislik Profili & Vizyon / Engineering Profile & Vision
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💼 pro.terminAl POS</h3>
-      <p><b>Yeni Nesil Çevrimdışı Kasa & Stok Terminali</b></p>
-      <p>
-        KOBİ'ler için internet bağımlılığı olmadan çalışan, SQLite yerel veritabanı kurgulanmış ve Electron.js ile paketlenmiş ticari masaüstü satış noktası (POS) çözümü.
-      </p>
-      <ul>
-        <li><b>Offline-First Mimari:</b> İnternet kesilse dahi sıfır kesintiyle satış ve stok takibi.</li>
-        <li><b>Performans:</b> WAL modunda çalışan yerel SQLite ile milisaniyelik veri işleme.</li>
-        <li><b>Donanım Entegrasyonu:</b> ESC/POS canlı termal fiş dizaynı, terazi/barkod dinleyicileri, otomatik para çekmecesi tetikleme ve Gün Sonu Z Raporu mutabakatı.</li>
-      </ul>
-      <p>
-        <code>React</code> • <code>Node.js</code> • <code>Electron.js</code> • <code>SQLite</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚗 TRAFY-AI</h3>
-      <p><b>Akıllı Trafik Telemetrisi & Hız Tespiti</b></p>
-      <p>
-        Basit nesne tespitinin ötesine geçerek, araç hız tespiti yapan ve güvenli sürüş deneyimi sağlamaya odaklanan ileri düzey Bilgisayarlı Görü bitirme mühendisliği projesi.
-      </p>
-      <ul>
-        <li><b>İleri Düzey Analiz:</b> İnce ayarlı YOLOv8 mimarisi ve OpenCV video akış işleyicisi.</li>
-        <li><b>Hız Hesaplama:</b> Kuşbakışı perspektif dönüşüm matematiği ile gerçek zamanlı araç hız vektörleri ve şerit ihlal tespiti.</li>
-        <li><b>Telemetri Paneli:</b> Canlı video akışı üzerinden anlık ihlal loglama ve görsel telemetri paneli.</li>
-      </ul>
-      <p>
-        <code>Python</code> • <code>YOLOv8</code> • <code>OpenCV</code> • <code>Flask</code> • <code>React</code>
-      </p>
-    </td>
+    <th width="50%" align="center">
+      <h3>🇬🇧 English (Global Profile)</h3>
+    </th>
+    <th width="50%" align="center">
+      <h3>🇹🇷 Türkçe (Mühendislik Vizyonu)</h3>
+    </th>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Nova</h3>
-      <p><b>Cihaz Güvenliği & Bütünlük Doğrulama Mobil Uygulaması</b></p>
+    <td valign="top">
       <p>
-        Cihaz bütünlüğünü ve kullanıcı gizliliğini korumaya odaklanan yerel (Native) mobil güvenlik uygulaması.
+        I am a <b>Computer Engineering graduate</b> and software engineer focused on architecting resilient, end-to-end systems from the ground up. I bridge high-level intuitive UI/UX with robust backend and desktop foundations.
       </p>
       <ul>
-        <li><b>Güvenlik Denetimi:</b> Gerçek zamanlı şüpheli izin yükseltmelerini ve arka plan anomalilerini izleme.</li>
-        <li><b>Veri Güvenliği:</b> Şifrelenmiş yerel depolama ve reaktif mobil mimari.</li>
+        <li>🏛️ <b>Desktop & Offline-First:</b> Architecting zero-latency, offline-first systems powered by ACID-compliant local SQLite engines in WAL mode.</li>
+        <li>🧠 <b>Computer Vision & AI:</b> Building applied deep learning pipelines that go beyond simple detection into vehicle speed telemetry, trajectory geometry, and proactive safety.</li>
+        <li>🔬 <b>R&D & Optimization:</b> Principal investigator on a <b>TÜBİTAK 2209-A</b> emergency management system, leveraging metaheuristic algorithms (GA, PSO, ABC).</li>
+        <li>🎯 <b>Philosophy:</b> Dedicated to deterministic state management, clean architecture principles, and dark glassmorphism aesthetic standards.</li>
       </ul>
-      <p>
-        <code>Flutter</code> • <code>Dart</code> • <code>Mobile Security</code>
-      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔬 Akıllı Acil Durum Yönetimi (TÜBİTAK 2209-A)</h3>
-      <p><b>Sezgisel Algoritmalar ile Rota & Kaynak Optimizasyonu</b></p>
+    <td valign="top">
       <p>
-        Acil durumlarda kaynak dağıtımını ve müdahale süresini en aza indirmek üzerine yürütülmüş TÜBİTAK destekli akademik Ar-Ge çalışması.
+        Sadece kod yazan değil; uçtan uca sistem mimarisi kurgulayan, pazara hazır çapraz platform masaüstü ürünler çıkaran ve yapay zeka ile katma değerli çözümler üreten bir <b>Bilgisayar Mühendisliği mezunuyum</b>.
       </p>
       <ul>
-        <li><b>Algoritmalar:</b> Genetik Algoritma (GA), Parçacık Sürü Optimizasyonu (PSO) ve Yapay Arı Kolonisi (ABC) modellerinin karşılaştırmalı analizi.</li>
-        <li><b>Sonuç:</b> Şehir graf modelleri üzerinde acil müdahale gecikmelerini minimize eden karar destek motoru.</li>
+        <li>🏛️ <b>Masaüstü & Çevrimdışı Sistemler:</b> İnternet kesintilerinden bağımsız, yerel SQLite (WAL modu) motorlu, milisaniyelik yanıt veren offline-first mimariler.</li>
+        <li>🧠 <b>Bilgisayarlı Görü & Yapay Zeka:</b> Basit tespiti aşan, anlık araç hız kestirimi, rota geometrisi ve sürüş güvenliği sağlayan modeller.</li>
+        <li>🔬 <b>Ar-Ge Vizyonu:</b> <b>TÜBİTAK 2209-A</b> destekli Akıllı Acil Durum Yönetimi araştırmalarında sezgisel optimizasyon (Genetik Algoritma, PSO, ABC) geliştiricisi.</li>
+        <li>🎯 <b>Mühendislik İlkem:</b> Hata toleranslı veri güvenliği, temiz kod ve akıcı karanlık cam (glassmorphism) arayüzleri.</li>
       </ul>
-      <p>
-        <code>Python</code> • <code>Metaheuristics</code> • <code>Graph Analytics</code>
-      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ TEKNOLOJİ YIĞINI & ARAÇLAR (TECH STACK)
+### 🛠️ Teknoloji Yığını & Araçlar / Tech Stack & Tools
 
 <div align="center">
 
@@ -132,63 +88,35 @@ Yazılım geliştirme sürecine salt ekran tasarımı olarak değil; **veri güv
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-#### 🤖 AI, Computer Vision & Optimization
+#### 🤖 AI, Computer Vision & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Optimization](https://img.shields.io/badge/Optimization_(GA_|_PSO_|_ABC)-4CAF50?style=for-the-badge&logo=scipy&logoColor=white)
+![Optimization Algorithms](https://img.shields.io/badge/Optimization_(GA_|_PSO_|_ABC)-4CAF50?style=for-the-badge&logo=scipy&logoColor=white)
 
 #### 📱 Mobile Development & Security
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Security](https://img.shields.io/badge/Device_Security-black?style=for-the-badge&logo=shield&logoColor=white)
+![Mobile Security](https://img.shields.io/badge/Security_Hardening-black?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 DİNAMİK GİTHUB İSTATİSTİKLERİ
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnur21&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnur21&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
----
-
-# 🇬🇧 ABOUT ME & GLOBAL ENGINEERING PROFILE
-
-I am a **Computer Engineering graduate** and software engineer specialized in designing robust, production-grade applications that bridge intuitive user experiences with resilient backend architectures.
-
-Rather than just assembling user interfaces, I engineer **fault-tolerant**, **offline-first**, and **high-throughput** systems equipped with sub-millisecond local query performance.
-
-### 🎯 Core Competencies & Mindset:
-* 🏛️ **Full-Stack & Desktop Engineering:** Architecting zero-latency offline-first software powered by ACID-compliant local SQLite databases (WAL mode) packaged via Electron.js.
-* 🧠 **Computer Vision & Applied AI:** Developing production deep learning pipelines that go beyond simple detection into real-time vehicle speed estimation, trajectory tracking, and proactive driving safety.
-* 🔬 **R&D & Metaheuristic Optimization:** Principal investigator for applied research funded by **TÜBİTAK 2209-A** on Smart Emergency Management Systems, benchmarked against Genetic Algorithms, PSO, and Artificial Bee Colony (ABC).
-* ✨ **Design Philosophy:** Dedicated to responsive dark glassmorphism interfaces, deterministic state transitions, and uncompromising data integrity.
-
----
-
-### 🚀 FEATURED ENGINEERING PROJECTS
+### 🌟 Öne Çıkan Projeler / Featured Engineering Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💼 pro.terminAl POS</h3>
-      <p><b>Next-Gen Offline-First Desktop Point of Sale & Inventory Terminal</b></p>
+      <p><b>Yeni Nesil Çevrimdışı Kasa & Stok Yönetim Terminali</b></p>
       <p>
-        Commercial-grade desktop Point-of-Sale (POS) suite engineered for retail SMEs with zero cloud dependency.
+        KOBİ'ler için internet kesintilerinden bağımsız, çevrimdışı (offline-first) çalışan, SQLite yerel veritabanı kurgulanmış ve Electron.js ile paketlenmiş profesyonel masaüstü POS uygulaması.
       </p>
       <ul>
-        <li><b>Offline-First Resilience:</b> 100% operational continuity during network outages.</li>
-        <li><b>High Throughput:</b> Local SQLite engine running in WAL mode with millisecond response times.</li>
-        <li><b>Hardware Integration:</b> ESC/POS thermal receipt engine, barcode/scale HID listeners, cash drawer triggers, and daily Z-report reconciliation.</li>
+        <li><b>🇬🇧 Key Architecture:</b> Offline-first resilient state, sub-millisecond local SQLite queries (WAL mode), live ESC/POS receipt generation, HID barcode/scale listeners, and Z-report daily closing reconciliation.</li>
+        <li><b>🇹🇷 Temel Mimari:</b> Canlı termal fiş önizleme, terazi/barkod dinleyicileri, çekmece tetikleme ve gün sonu mali mutabakat raporları.</li>
       </ul>
       <p>
         <code>React</code> • <code>Node.js</code> • <code>Electron.js</code> • <code>SQLite</code>
@@ -196,14 +124,13 @@ Rather than just assembling user interfaces, I engineer **fault-tolerant**, **of
     </td>
     <td width="50%" valign="top">
       <h3>🚗 TRAFY-AI</h3>
-      <p><b>Intelligent Traffic Telematics & Vehicle Velocity Estimation</b></p>
+      <p><b>Bilgisayarlı Görü ile Akıllı Trafik & Hız Telemetrisi</b></p>
       <p>
-        Computer Vision engineering graduation project advancing beyond simple object detection to estimate vehicle velocity and maximize driving safety.
+        Klasik nesne tespitinin ötesine geçerek, araç hız tespiti yapan ve sürüş güvenliğini maksimize eden ileri düzey Bilgisayarlı Görü bitirme projesi.
       </p>
       <ul>
-        <li><b>Pipeline:</b> Fine-tuned YOLOv8 deep stream architecture coupled with OpenCV frame processors.</li>
-        <li><b>Mathematical Modeling:</b> Perspective transformation geometry providing real-time speed vector estimation and lane violation tracking.</li>
-        <li><b>Telemetry:</b> Interactive streaming dashboard logging live traffic violations and spatial metrics.</li>
+        <li><b>🇬🇧 Key Architecture:</b> Real-time video processing pipeline tracking vehicle velocity vectors and trajectory deviations using fine-tuned YOLOv8 models and perspective transformation geometry.</li>
+        <li><b>🇹🇷 Temel Mimari:</b> Perspektif dönüşüm matematiği ile milisaniyelik hız tahmini, ihlal loglama ve anlık video akış telemetri paneli.</li>
       </ul>
       <p>
         <code>Python</code> • <code>YOLOv8</code> • <code>OpenCV</code> • <code>Flask</code> • <code>React</code>
@@ -213,13 +140,13 @@ Rather than just assembling user interfaces, I engineer **fault-tolerant**, **of
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Nova</h3>
-      <p><b>Native Mobile Security & Integrity Suite</b></p>
+      <p><b>Cihaz Güvenliği & Bütünlük Doğrulama Mobil Uygulaması</b></p>
       <p>
-        Native mobile application dedicated to device hardening, permission auditing, and user privacy protection.
+        Kullanıcı gizliliğini ve cihaz güvenliğini ön planda tutan, hafif ve reaktif yerel (Native) mobil koruma uygulaması.
       </p>
       <ul>
-        <li><b>Integrity Verification:</b> Real-time monitoring of suspicious permission escalations and background anomalies.</li>
-        <li><b>Data Privacy:</b> Hardware-backed encrypted local storage and reactive mobile architecture.</li>
+        <li><b>🇬🇧 Key Architecture:</b> Real-time mobile integrity auditing suspicious permission escalations, background anomalies, and encrypted local storage.</li>
+        <li><b>🇹🇷 Temel Mimari:</b> Şüpheli izin denetimi, arka plan güvenlik analizi ve şifrelenmiş yerel depolama mimarisi.</li>
       </ul>
       <p>
         <code>Flutter</code> • <code>Dart</code> • <code>Mobile Security</code>
@@ -227,16 +154,16 @@ Rather than just assembling user interfaces, I engineer **fault-tolerant**, **of
     </td>
     <td width="50%" valign="top">
       <h3>🔬 Smart Emergency Optimization (TÜBİTAK 2209-A)</h3>
-      <p><b>Heuristic Decision Support for Emergency Resource Dispatch</b></p>
+      <p><b>Sezgisel Algoritmalar ile Akıllı Acil Durum Yönetimi</b></p>
       <p>
-        Academic R&D initiative funded by TÜBİTAK to minimize critical response latency in complex city grid graphs.
+        Acil durumlarda kaynak dağıtımı ve rota minimizasyonu üzerine yürütülmüş TÜBİTAK destekli akademik Ar-Ge araştırması.
       </p>
       <ul>
-        <li><b>Comparative Analytics:</b> Algorithmic benchmarking across Genetic Algorithms (GA), Particle Swarm Optimization (PSO), and Artificial Bee Colony (ABC).</li>
-        <li><b>Impact:</b> Rapid heuristic routing minimizing emergency response delays under dynamic constraints.</li>
+        <li><b>🇬🇧 Key Architecture:</b> Comparative heuristic modeling across Genetic Algorithms, Particle Swarm Optimization (PSO), and Artificial Bee Colony (ABC) across city graph topologies.</li>
+        <li><b>🇹🇷 Temel Mimari:</b> Şehir graf modelleri üzerinde müdahale süresini minimize eden karşılaştırmalı meta-sezgisel optimizasyon analizi.</li>
       </ul>
       <p>
-        <code>Python</code> • <code>Metaheuristics</code> • <code>Graph Analytics</code>
+        <code>Python</code> • <code>Optimization (GA/PSO/ABC)</code> • <code>Graph Analytics</code>
       </p>
     </td>
   </tr>
@@ -244,19 +171,30 @@ Rather than just assembling user interfaces, I engineer **fault-tolerant**, **of
 
 ---
 
-### 📬 İLETİŞİM & CONNECT WITH ME
+### 📊 Dinamik GitHub İstatistikleri / Activity Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Fatma Nur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnur21&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnur21&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### 📬 İletişim & Ağ / Connect With Me
 
 <div align="center">
   <p>
-    Açık fikir alışverişleri, full-stack ürün mimarileri ve yapay zeka projeleri için iletişime geçebilirsiniz.<br/>
-    <em>Always open to discussing full-stack systems architecture, desktop products, and AI opportunities.</em>
+    <b>🇬🇧</b> Open to discussions regarding full-stack product engineering, scalable desktop architecture, and AI integrations.<br/>
+    <b>🇹🇷</b> Uçtan uca ürün mimarileri, masaüstü çözümleri ve yapay zeka projeleri için her zaman iletişime açığım.
   </p>
 
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/fatma-nur-pekmez-79365b2b4/)" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:nurpekmez21@gmail.com">
+  <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
