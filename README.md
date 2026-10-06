@@ -1,42 +1,73 @@
 <div align="center">
 
-  # Hi there, I'm Fatma Nur 👋
-  ### Computer Engineering Graduate | Full-Stack & AI Developer
+  <!-- DİNAMİK DALGALI BAŞLIK BANNERI -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=220&section=header&text=Fatma%20Nur&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Graduate%20|%20Full-Stack%20%26%20AI%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-  <p align="center">
-    <em>Designing robust end-to-end architectures, shipping production-ready desktop & web systems, and engineering high-impact Computer Vision & AI solutions.</em>
-  </p>
+  <br/>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:YOUR_EMAIL@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Actively_Building-00C853?style=for-the-badge" alt="Status" />
-  </p>
+  <!-- STATÜ VE İLETİŞİM ROZETLERİ -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Turkey-008080?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Actively_Building-00C853?style=for-the-badge" alt="Status" />
 
 </div>
 
----
-
-### 🚀 About Me
-
-I am a **Computer Engineering graduate** and software engineer specialized in building scalable, production-grade applications that bridge the gap between intuitive user experiences and resilient backend architectures. 
-
-* 🏛️ **Full-Stack & Desktop Engineering:** Experienced in designing offline-first systems, architecting local relational databases (SQLite with WAL journaling), and packaging high-performance cross-platform desktop products with modern frontend paradigms.
-* 🧠 **Artificial Intelligence & Computer Vision:** Passionate about real-time deep learning pipelines, custom object detection, tracking, and metric estimation models that solve real-world mobility and security problems.
-* 🔬 **Academic & R&D Vision:** Conducted applied research funded by **TÜBİTAK 2209-A** on **Smart Emergency Management Systems** leveraging heuristic optimization algorithms (*Genetic Algorithms, Particle Swarm Optimization (PSO), and Artificial Bee Colony (ABC)*).
-* 🎯 **Design Philosophy:** Dedicated to clean UI/UX, responsive dark glassmorphism interfaces, deterministic state management, and fail-safe data integrity.
+<br/>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🌐 Profil & Vizyon / Profile & Engineering Vision
+
+<table>
+  <tr>
+    <th width="50%" align="center">
+      <h3>🇬🇧 English (Global Profile)</h3>
+    </th>
+    <th width="50%" align="center">
+      <h3>🇹🇷 Türkçe (Mühendislik Profili)</h3>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p>
+        I am a <b>Computer Engineering graduate</b> and software engineer who engineers full-scale architectures rather than just writing code. I focus on developing production-grade cross-platform desktop software, offline-first systems, and advanced Computer Vision solutions.
+      </p>
+      <ul>
+        <li>🏛️ <b>Architecture & Desktop:</b> Designing offline-first, crash-resilient architectures backed by ACID-compliant local SQLite databases (WAL mode).</li>
+        <li>🧠 <b>AI & Computer Vision:</b> Building deep learning inference pipelines that go beyond simple detection into telemetry, vehicle velocity tracking, and safety metrics.</li>
+        <li>🔬 <b>Applied Research:</b> Principal investigator on <b>TÜBİTAK 2209-A</b> emergency management systems using heuristic metaheuristics (GA, PSO, ABC).</li>
+        <li>🎯 <b>Philosophy:</b> Dedicated to deterministic state flow, fluid glassmorphism UI/UX, and zero-latency user workflows.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <p>
+        Sadece kod yazan değil; uçtan uca sistem mimarisi tasarlayan, pazara hazır çapraz platform masaüstü ürünler çıkaran ve yapay zeka/bilgisayarlı görü ile katma değerli çözümler üreten bir <b>Bilgisayar Mühendisliği mezunuyum</b>.
+      </p>
+      <ul>
+        <li>🏛️ <b>Mimari & Masaüstü:</b> İnternet kesintilerinden etkilenmeyen, yerel SQLite (WAL modu) motorlu, yüksek performanslı çevrimdışı (offline-first) mimariler.</li>
+        <li>🧠 <b>Yapay Zeka & Görü:</b> Basit nesne tespitini aşan, gerçek zamanlı telemetri, araç hız kestirimi ve sürüş güvenliği modelleri.</li>
+        <li>🔬 <b>Ar-Ge Vizyonu:</b> <b>TÜBİTAK 2209-A</b> destekli Akıllı Acil Durum Yönetimi araştırmalarında sezgisel optimizasyon algoritmaları (Genetik Algoritma, PSO, ABC) geliştiricisi.</li>
+        <li>🎯 <b>Tasarım İlkem:</b> Temiz kod, akıcı karanlık cam (glassmorphism) arayüzleri ve hata toleranslı veri bütünlüğü.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Yetenekler & Teknoloji Yığını / Tech Stack & Tooling
 
 <div align="center">
 
-#### 🖥️ Frontend & Desktop
+#### 🖥️ Frontend & Desktop Engineering
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +75,7 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ Backend & Database
+#### ⚙️ Backend & Database Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -55,9 +86,9 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Optimization Algorithms](https://img.shields.io/badge/Optimization_Algorithms_(GA/PSO/ABC)-4CAF50?style=for-the-badge&logo=scientific-computing&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization_(GA_|_PSO_|_ABC)-4CAF50?style=for-the-badge&logo=scipy&logoColor=white)
 
-#### 📱 Mobile
+#### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -65,19 +96,19 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Öne Çıkan Projeler / Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💼 pro.terminAl POS</h3>
+      <p><b>Yeni Nesil Çevrimdışı Kasa & Stok Yönetim Terminali</b></p>
       <p>
-        Next-generation, commercial-grade desktop Point-of-Sale (POS) and inventory management suite engineered for retail SMEs.
+        KOBİ'ler için internet kesintilerinden bağımsız, çevrimdışı (offline-first) çalışan, SQLite yerel veritabanı kurgulanmış ve Electron.js ile paketlenmiş profesyonel masaüstü POS uygulaması.
       </p>
       <ul>
-        <li><b>Architecture:</b> 100% offline-first operation with zero internet dependency.</li>
-        <li><b>Performance:</b> ACID-compliant local SQLite engine running in WAL mode with millisecond response times.</li>
-        <li><b>Features:</b> Live thermal receipt preview, barcode/scale HID listeners, cash drawer triggers, and Z-report daily reconciliation.</li>
+        <li><b>🇬🇧 Overview:</b> High-speed desktop POS suite designed with sub-millisecond local SQLite queries, live ESC/POS receipt engine, barcode/scale HID integration, and Z-report daily closing reconciliation.</li>
+        <li><b>🇹🇷 Özellikler:</b> Canlı termal fiş önizleme, terazi/barkod dinleyicileri, çekmece tetikleme ve gün sonu mali mutabakat raporları.</li>
       </ul>
       <p>
         <code>React</code> • <code>Node.js</code> • <code>Electron.js</code> • <code>SQLite</code>
@@ -85,13 +116,13 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
     </td>
     <td width="50%" valign="top">
       <h3>🚗 TRAFY-AI</h3>
+      <p><b>Bilgisayarlı Görü ile Akıllı Trafik & Hız Telemetrisi</b></p>
       <p>
-        Advanced Computer Vision graduation engineering system designed for intelligent traffic telematics and proactive driving safety.
+        Klasik nesne tespitinin ötesine geçerek, araç hız tespiti yapan ve sürüş güvenliğini maksimize eden ileri düzey Bilgisayarlı Görü bitirme projesi.
       </p>
       <ul>
-        <li><b>Beyond Detection:</b> Real-time vehicle speed estimation and trajectory tracking using perspective transform algorithms.</li>
-        <li><b>Pipeline:</b> Fine-tuned YOLOv8 architecture integrated with OpenCV deep stream processors.</li>
-        <li><b>Interface:</b> Responsive dashboard displaying live video stream telemetry and violation logs.</li>
+        <li><b>🇬🇧 Overview:</b> Real-time video processing pipeline tracking vehicle velocity vectors and trajectory deviations using fine-tuned YOLOv8 models and perspective transformation geometry.</li>
+        <li><b>🇹🇷 Özellikler:</b> Perspektif dönüşüm matematiği ile milisaniyelik hız tahmini, ihlal loglama ve anlık video akış telemetri paneli.</li>
       </ul>
       <p>
         <code>Python</code> • <code>YOLOv8</code> • <code>OpenCV</code> • <code>Flask</code> • <code>React</code>
@@ -101,12 +132,13 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Nova</h3>
+      <p><b>Cihaz Güvenliği & Bütünlük Doğrulama Mobil Uygulaması</b></p>
       <p>
-        Native mobile security suite focused on proactive device hardening and integrity verification.
+        Kullanıcı gizliliğini ve cihaz güvenliğini ön planda tutan, hafif ve reaktif yerel (Native) mobil koruma uygulaması.
       </p>
       <ul>
-        <li><b>Security:</b> Real-time permission auditing, suspicious behavior analysis, and secure storage encryption.</li>
-        <li><b>UX:</b> Lightweight, low-overhead native mobile interface designed for instant response.</li>
+        <li><b>🇬🇧 Overview:</b> Native mobile integrity application monitoring suspicious permission escalations, background anomalies, and encrypted local storage.</li>
+        <li><b>🇹🇷 Özellikler:</b> Şüpheli izin denetimi, arka plan güvenlik analizi ve şifrelenmiş yerel depolama mimarisi.</li>
       </ul>
       <p>
         <code>Flutter</code> • <code>Dart</code> • <code>Mobile Security</code>
@@ -114,15 +146,16 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
     </td>
     <td width="50%" valign="top">
       <h3>🔬 Smart Emergency Optimization (TÜBİTAK 2209-A)</h3>
+      <p><b>Sezgisel Algoritmalar ile Akıllı Acil Durum Yönetimi</b></p>
       <p>
-        Applied academic research on algorithmic decision support for emergency resource dispatch and route minimization.
+        Acil durumlarda kaynak dağıtımı ve rota minimizasyonu üzerine yürütülmüş TÜBİTAK destekli akademik Ar-Ge araştırması.
       </p>
       <ul>
-        <li><b>Algorithms:</b> Comparative heuristic modeling across Genetic Algorithms, PSO, and Artificial Bee Colony (ABC).</li>
-        <li><b>Impact:</b> Minimized critical emergency response delays in complex city grid graphs.</li>
+        <li><b>🇬🇧 Overview:</b> Heuristic decision engine benchmarking Genetic Algorithms, Particle Swarm Optimization (PSO), and Artificial Bee Colony (ABC) across city graph topologies.</li>
+        <li><b>🇹🇷 Özellikler:</b> Şehir graf modelleri üzerinde müdahale süresini minimize eden karşılaştırmalı meta-sezgisel optimizasyon analizi.</li>
       </ul>
       <p>
-        <code>Python</code> • <code>Metaheuristics</code> • <code>Graph Optimization</code>
+        <code>Python</code> • <code>Optimization (GA/PSO/ABC)</code> • <code>Graph Analytics</code>
       </p>
     </td>
   </tr>
@@ -130,19 +163,24 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub İstatistikleri & Metrikler / Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Fatma Nur's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fnur21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnur21&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fnur21&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-### 📬 Get in Touch
+### 📬 İletişim & Ağ / Connect With Me
 
 <div align="center">
-  <p>I am always open to discussing full-stack product architecture, AI/Computer Vision integrations, and software engineering opportunities.</p>
+  <p>
+    <b>🇬🇧</b> Open to discussions regarding full-stack product engineering, scalable desktop architecture, and AI integrations.<br/>
+    <b>🇹🇷</b> Uçtan uca ürün mimarileri, masaüstü çözümleri ve yapay zeka projeleri için her zaman iletişime açığım.
+  </p>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -151,4 +189,11 @@ I am a **Computer Engineering graduate** and software engineer specialized in bu
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<br/>
+
+<!-- DİNAMİK DALGALI ALT BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,11,6,1&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
